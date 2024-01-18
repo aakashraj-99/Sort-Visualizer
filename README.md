@@ -1,6 +1,8 @@
 # visual-sort
 Visualisation of popular sorting algorithms. Made with processing and javascript. Works well on desktop as well as mobile. 
 
+[Simulation link](https://aakashraj-99.github.io/Sort-Visualizer/)
+
 To run locally,
 1. clone repo
 2. run index.html
