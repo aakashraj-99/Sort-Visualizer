@@ -15,4 +15,4 @@ Current List:
 4. heap sort O(n logn)
 5. merge sort O(n logn)
 
-[link to simulation - VISUAL_SORT](http://adityaanantharaman.github.io/visual-sort)
+
